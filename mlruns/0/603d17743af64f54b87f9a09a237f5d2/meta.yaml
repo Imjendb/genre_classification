@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/i.jendoubi/Documents/udacity_course/genre_classification/mlruns/0/603d17743af64f54b87f9a09a237f5d2/artifacts
+end_time: 1683230987868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 603d17743af64f54b87f9a09a237f5d2
+run_uuid: 603d17743af64f54b87f9a09a237f5d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683230932224
+status: 3
+tags: []
+user_id: msi

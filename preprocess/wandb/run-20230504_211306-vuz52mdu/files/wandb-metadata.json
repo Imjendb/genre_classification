@@ -1,0 +1,134 @@
+{
+    "os": "Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.15",
+    "heartbeatAt": "2023-05-04T20:13:07.793740",
+    "startedAt": "2023-05-04T20:13:06.257198",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "raw_data.parquet:latest",
+        "--artifact_name",
+        "preprocessed_data.csv",
+        "--artifact_type",
+        "preprocessed_data",
+        "--artifact_description",
+        "Data with preprocessing applied"
+    ],
+    "state": "running",
+    "program": "/mnt/c/Users/i.jendoubi/Documents/udacity_course/genre_classification/preprocess/run.py",
+    "codePath": "preprocess/run.py",
+    "git": {
+        "remote": "https://github.com/Imjendb/genre_classification.git",
+        "commit": "8f9d0b8c20643c4070ca11e03fba7e30a5119e41"
+    },
+    "email": "i.jendoubi@instadeep.com",
+    "root": "/mnt/c/Users/i.jendoubi/Documents/udacity_course/genre_classification",
+    "host": "DESKTOP-0AD3KDR",
+    "username": "msi",
+    "executable": "/home/msi/anaconda3/envs/mlflow-342ddbbd7998bf5fea0f06511769975ff7142395/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2687.9970000000003,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2687.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2687.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2687.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2687.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2687.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2687.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2687.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2687.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2687.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2687.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2687.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2687.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2687.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2687.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2687.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2687.997,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 70.53292846679688
+    },
+    "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4050 Laptop GPU",
+            "memory_total": 6439305216
+        }
+    ],
+    "memory": {
+        "total": 15.476829528808594
+    }
+}

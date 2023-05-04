@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/i.jendoubi/Documents/udacity_course/genre_classification/mlruns/0/975ea189783c4121b10ff6d781f2d94a/artifacts
+end_time: 1683230500421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 975ea189783c4121b10ff6d781f2d94a
+run_name: stylish-finch-182
+run_uuid: 975ea189783c4121b10ff6d781f2d94a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683230394687
+status: 4
+tags: []
+user_id: msi
